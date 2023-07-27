@@ -880,7 +880,7 @@
   ],
   "groups": [
     {
-      "title": "REFINER HERE",
+      "title": "REFINERはここに",
       "bounding": [
         -55,
         -455,
@@ -890,7 +890,7 @@
       "color": "#3f789e"
     },
     {
-      "title": "BASE HERE",
+      "title": "BASEはここに",
       "bounding": [
         -77,
         278,
@@ -900,7 +900,7 @@
       "color": "#8A8"
     },
     {
-      "title": "RESULT WITHOUT REFINER",
+      "title": "REFINER無し出力結果",
       "bounding": [
         1337,
         84,
@@ -910,7 +910,7 @@
       "color": "#b58b2a"
     },
     {
-      "title": "RESULT WITH REFINER",
+      "title": "REFINERアリ出力結果",
       "bounding": [
         1331,
         -498,
@@ -920,7 +920,7 @@
       "color": "#a1309b"
     },
     {
-      "title": "SDXL 0.9",
+      "title": "SDXL 1.0",
       "bounding": [
         422,
         -89,

@@ -21,7 +21,9 @@
 
 ## チュートリアル
 
-重要：`sd_xl_base_0.9.safetensors`と`sd_xl_refiner_0.9.safetensors`のモデルは公開していません。`sdxl`にモデルのリンクを追加してからセルを実行してください。https://dagshub.com という素晴らしいウェブサイトがあり、無料でモデルを保存することができます。😄
+🚨重要(SDXL0.9を使う時の注意事項)：
+
+`sd_xl_base_0.9.safetensors`と`sd_xl_refiner_0.9.safetensors`のモデルは公開していません。`sdxl`にモデルのリンクを追加してからセルを実行してください。https://dagshub.com という素晴らしいウェブサイトがあり、無料でモデルを保存することができます。😄
 
 ![image](https://github.com/camenduru/sdxl-colab/assets/54370274/8e42dc52-79b6-4074-bf62-b2d4d6213d36)
 

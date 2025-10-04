@@ -1,12 +1,4 @@
 # SDXL ConfyUI Google Colab
-[新宮ラリ・プロフィール](https://www.beacons.ai/shingulari/) 
-
-[![Twitter 新宮ラリ](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aisinguularity)
-
-[![YouTube Channel](https://img.shields.io/badge/YouTube-新宮ラリのAIシンギュラリティー-C50C0C?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aisinguularity) 
-
-[Discord シンギュラリティークラブ](https://discord.gg/xXJGyC6XYT)
-
 
 ## 🦒 Colab
 
